@@ -1,14 +1,1 @@
-<pets>
-  <pet>
-    <name>Jeffrey</name>
-    <species>Giraffe</species>
-  </pet>
-  <pet>
-    <name>Gustav</name>
-    <species>Dog</species>
-  </pet>
-  <pet>
-    <name>Gregory</name>
-    <species>Duck</species>
-  </pet>
-</pets>
+{"pets":{"name":"Jeffrey","species":"Giraffe"}}
